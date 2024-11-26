@@ -67,5 +67,5 @@ def segment_image(image_path):
 
 # Example usage
 if __name__ == "__main__":
-    PathNames = r"C:/Users/cic/Desktop/testtest/dataset"
-    segment_image(PathNames + "//000000000139.jpg")
+    PathNames = r"C:/Users/cic/Desktop/SW_oop18/dataset"
+    segment_image(PathNames + "//000000002473.jpg")
